@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: FocusFrame_TargetCastbar
+## Notes: Adds an extra castbar for your current target.
+## RequiredDeps: FocusFrame
+## LoadOnDemand: 1
+## LoadWith: FocusFrame
+## Author: Wardz
+
+Frames.lua
+TargetCastbar.lua
