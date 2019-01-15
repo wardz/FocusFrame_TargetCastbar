@@ -1,5 +1,8 @@
 # FocusFrame_TargetCastbar
-Add castbar for default target frame. (Copy of FocusFrame castbar but for target instead)
+Adds a castbar to the default target frame. (Copy of FocusFrame castbar but for target instead. Requires [FocusFrame](https://github.com/wardz/FocusFrame) to work.)
+
+**Update 2019**  
+Development has been ceased due to the official release of WoW Classic.
 
 ## Installation
 1. Download latest [version here.](https://github.com/wardz/FocusFrame_TargetCastbar/releases)
